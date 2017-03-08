@@ -1,0 +1,17 @@
+p {
+  padding: 10px;
+  color: white;
+  background-color: #DD7F3D;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+input {
+  margin-bottom: 5px;
+}
+
+
+fieldset {
+  padding: 10px;
+  margin-left: 20px;
+}
